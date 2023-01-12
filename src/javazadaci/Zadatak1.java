@@ -28,8 +28,11 @@ public class Zadatak1 {
         } else{
             System.out.println("Srednja vrednost je c " + c);
         }
+        System.out.println("Kraj");
 
         }
+
+
 
 
     }
